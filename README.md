@@ -5,6 +5,8 @@ My name is Caio Felipe and i am a programming student
 🔭 I’m currently working on my web developer skills
 
 📫 Contact-me on:
+e-mail: caiofelipedev@gmail.ocm
+discord: soulmate#5986
 
 
 <!--
