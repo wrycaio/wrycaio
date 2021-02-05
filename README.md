@@ -2,7 +2,7 @@
 
 My name is Caio Felipe and i am a programming student
 
-🔭 I’m currently working on my web developer skills
+🔭 I’m currently working on web security skills and software developer
 
 📫 Contact-me on:
 e-mail: caiofelipedev@gmail.ocm
