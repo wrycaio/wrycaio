@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Caio Felipe and i am a programming student
+My name is Caio Felipe and i am a cybersecurity student
 
 🔭 I’m currently working on web security skills and software developer
 
