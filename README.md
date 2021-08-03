@@ -2,15 +2,15 @@
 
 My name is Caio Felipe and i am a cybersecurity student
 
-🔭 Web stack skills:
+⚡ Web stack skills:
   - HTML5 / CSS / JS
   - Vue.JS
   - Adonis.JS
-  
-🔭 Hacking skills:
+
+🌱 Hacking skills:
   - Reverse engineering and Malware Analysis(.NET Applications)
   - Web Security Vulnerabilities
-  - 
+ 
 🔭 Cloud skills:
   - Amazon Security AWS ( IAM, S3 Buckets, Logging)
  
