@@ -2,7 +2,18 @@
 
 My name is Caio Felipe and i am a cybersecurity student
 
-🔭 I’m currently working on web security skills and app development with Flutter
+🔭 Web stack skills:
+  - HTML5 / CSS / JS
+  - Vue.JS
+  - Adonis.JS
+  
+🔭 Hacking skills:
+  - Reverse engineering and Malware Analysis(.NET Applications)
+  - Web Security Vulnerabilities
+  - 
+🔭 Cloud skills:
+  - Amazon Security AWS ( IAM, S3 Buckets, Logging)
+ 
 
  <div>
   <a href="https://github.com/wrycaio">
@@ -17,8 +28,6 @@ My name is Caio Felipe and i am a cybersecurity student
  <a href="https://discord.gg/jnb4aZfqhR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:caiofelipe21597@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caiofelipesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!--
